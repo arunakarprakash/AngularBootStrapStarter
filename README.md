@@ -1,5 +1,6 @@
 # App
 
+This is an Angular Starter with bootstrap and font awosome 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
 
 ## Development server
